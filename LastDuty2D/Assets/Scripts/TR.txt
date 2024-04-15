@@ -1,0 +1,14 @@
+{
+    "playbutton":"OYNA",
+    "settingsbutton":"AYARLAR",
+    "trainingbutton":"EĞİTİM",
+    "quitbutton":"ÇIKIŞ",
+    "langbutton":"TÜRKÇE",
+    "menuvoice":"MENÜ SESİ",
+    "gamevoice":"OYUN SESİ",
+    "menubutton":"ANA MENÜ",
+    "restart":"TEKRAR",
+    "volume":"SES",
+    "mainmenu":"ANA MENÜ",
+    "quit":"ÇIKIŞ"
+}

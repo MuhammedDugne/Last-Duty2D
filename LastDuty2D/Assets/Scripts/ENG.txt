@@ -1,0 +1,14 @@
+{
+    "playbutton":"PLAY",
+    "settingsbutton":"SETTINGS",
+    "trainingbutton":"TRAINING",
+    "quitbutton":"QUIT",
+    "langbutton":"ENGLISH",
+    "menuvoice":"MENU VOICE",
+    "gamevoice":"GAME VOICE",
+    "menubutton":"MAIN MENU",
+    "restart":"RESTART",
+    "volume":"VOLUME",
+    "mainmenu":"MAIN MENU",
+    "quit":"QUIT"
+}
